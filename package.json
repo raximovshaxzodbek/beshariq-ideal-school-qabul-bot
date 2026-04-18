@@ -1,0 +1,14 @@
+{
+  "name": "ideal-ilm-tarbiya-qabul-bot",
+  "version": "1.0.0",
+  "description": "Telegram registration bot for Ideal Ilm-tarbiya private school. Collects registration data and appends to Google Sheets.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "googleapis": "^171.4.0",
+    "telegraf": "^4.16.3"
+  }
+}
