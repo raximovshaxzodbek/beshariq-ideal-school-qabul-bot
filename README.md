@@ -66,3 +66,4 @@ Bot ishga tushgach, Telegramda /register buyruqini yuboring va ketma-ket chiqqan
 
 Agar konfiguratsiya yoki ishga tushirishda yordam kerak bo'lsa, menga xabar bering — yordam beraman.# ideal-ilm-tarbiya-qabul-boti
 # beshariq-ideal-school-qabul-bot
+# beshariq-ideal-school-qabul-bot
