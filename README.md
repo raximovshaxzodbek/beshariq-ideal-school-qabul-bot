@@ -65,3 +65,4 @@ Bot ishga tushgach, Telegramda /register buyruqini yuboring va ketma-ket chiqqan
 - Qo'shimcha maydonlar (ota/onasi ismi, tug'ilgan sana, sinfga qabul qoidalari va h.k.).
 
 Agar konfiguratsiya yoki ishga tushirishda yordam kerak bo'lsa, menga xabar bering — yordam beraman.# ideal-ilm-tarbiya-qabul-boti
+# beshariq-ideal-school-qabul-bot
